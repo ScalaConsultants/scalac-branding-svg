@@ -14,3 +14,5 @@ Shall you want to use the logos in GitHub flavoured Markdown you can use any of 
 ``` markdown
 ![logo](http://scalaconsultants.github.io/scalac-branding-svg/logo-without-text.svg)
 ```
+
+Scalac-red color hex - #ee3124 
